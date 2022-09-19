@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\bin\Debug\DatoveUkol1.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\bin\Debug\DatoveUkol1.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\bin\Debug\DatoveUkol1.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\DatoveUkol1\obj\Debug\DatoveUkol1.pdb
